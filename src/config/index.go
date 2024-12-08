@@ -22,7 +22,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/wleven/wxpay/utils"
+	"wxpay/utils"
 )
 
 type V3 struct {

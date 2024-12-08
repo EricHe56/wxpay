@@ -7,10 +7,10 @@
 package WXPay
 
 import (
-	"github.com/wleven/wxpay/src/V2"
-	"github.com/wleven/wxpay/src/V3"
-	"github.com/wleven/wxpay/src/config"
-	"github.com/wleven/wxpay/src/entity"
+	"wxpay/src/V2"
+	"wxpay/src/V3"
+	"wxpay/src/config"
+	"wxpay/src/entity"
 )
 
 type WXPayApi struct {

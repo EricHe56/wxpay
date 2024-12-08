@@ -1,9 +1,9 @@
 package V2
 
 import (
-	"github.com/wleven/wxpay/global"
 	"log"
 	"testing"
+	"wxpay/global"
 )
 
 var pay = WxPay{

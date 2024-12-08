@@ -13,8 +13,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/wleven/wxpay/src/entity"
-	"github.com/wleven/wxpay/utils"
+	"wxpay/src/entity"
+	"wxpay/utils"
 )
 
 // WxPay 微信支付
